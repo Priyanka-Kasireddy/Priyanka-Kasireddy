@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Priyanka-Kasireddy
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on projects based on Python
 - 📫 How to reach me either through mail
 
